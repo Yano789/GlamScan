@@ -1,0 +1,24 @@
+2026-04-29 15:22:24 | infer_embedder | INFO | infer_embeddings:46 | === Generating embeddings ===
+2026-04-29 15:22:24 | infer_embedder | INFO | load_products_csv:40 | Loaded 399 products from CSV
+2026-04-29 15:22:50 | infer_embedder | INFO | infer_embeddings:61 | Processing 399 products
+2026-04-29 15:22:54 | infer_embedder | INFO | infer_embeddings:100 | Processed 100 / 399 products
+2026-04-29 15:22:57 | infer_embedder | INFO | infer_embeddings:100 | Processed 200 / 399 products
+2026-04-29 15:23:00 | infer_embedder | INFO | infer_embeddings:100 | Processed 300 / 399 products
+2026-04-29 15:23:03 | infer_embedder | INFO | infer_embeddings:112 | Embeddings shape: (399, 512)
+2026-04-29 15:23:03 | infer_embedder | INFO | infer_embeddings:115 | Saved embeddings to /Users/yanoperdices/Downloads/files/outputs/embeddings.npy
+2026-04-29 15:23:03 | infer_embedder | INFO | infer_embeddings:119 | Saved metadata to /Users/yanoperdices/Downloads/files/outputs/metadata.json
+2026-04-29 15:23:03 | infer_embedder | INFO | infer_embeddings:121 | === Embedding complete ===
+2026-04-29 15:23:03 | infer_embedder | INFO | infer_embeddings:122 | Successfully embedded: 399
+2026-04-29 15:23:03 | infer_embedder | INFO | infer_embeddings:123 | Failed: 0
+2026-04-29 16:30:29 | infer_embedder | INFO | infer_embeddings:46 | === Generating embeddings ===
+2026-04-29 16:30:29 | infer_embedder | INFO | load_products_csv:40 | Loaded 399 products from CSV
+2026-04-29 16:30:54 | infer_embedder | INFO | infer_embeddings:61 | Processing 399 products
+2026-04-29 16:31:03 | infer_embedder | INFO | infer_embeddings:100 | Processed 100 / 399 products
+2026-04-29 16:31:10 | infer_embedder | INFO | infer_embeddings:100 | Processed 200 / 399 products
+2026-04-29 16:31:17 | infer_embedder | INFO | infer_embeddings:100 | Processed 300 / 399 products
+2026-04-29 16:31:23 | infer_embedder | INFO | infer_embeddings:112 | Embeddings shape: (399, 512)
+2026-04-29 16:31:24 | infer_embedder | INFO | infer_embeddings:115 | Saved embeddings to /Users/yanoperdices/Downloads/files/outputs/embeddings.npy
+2026-04-29 16:31:24 | infer_embedder | INFO | infer_embeddings:119 | Saved metadata to /Users/yanoperdices/Downloads/files/outputs/metadata.json
+2026-04-29 16:31:24 | infer_embedder | INFO | infer_embeddings:121 | === Embedding complete ===
+2026-04-29 16:31:24 | infer_embedder | INFO | infer_embeddings:122 | Successfully embedded: 399
+2026-04-29 16:31:24 | infer_embedder | INFO | infer_embeddings:123 | Failed: 0

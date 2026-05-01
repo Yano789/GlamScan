@@ -1,0 +1,128 @@
+2026-04-29 15:09:46 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=lipstick&currentPage=1
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'lipstick' | scraped 0 products
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_lipstick.json
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=mascara&currentPage=1
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'mascara' | scraped 0 products
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_mascara.json
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=foundation&currentPage=1
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'foundation' | scraped 0 products
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_foundation.json
+2026-04-29 15:09:47 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=eyeshadow&currentPage=1
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'eyeshadow' | scraped 0 products
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_eyeshadow.json
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=blush&currentPage=1
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'blush' | scraped 0 products
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_blush.json
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=concealer&currentPage=1
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'concealer' | scraped 0 products
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_concealer.json
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=primer&currentPage=1
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'primer' | scraped 0 products
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_primer.json
+2026-04-29 15:09:48 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=setting_spray&currentPage=1
+2026-04-29 15:09:49 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:09:49 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'setting_spray' | scraped 0 products
+2026-04-29 15:09:49 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_setting_spray.json
+2026-04-29 15:11:25 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=lipstick&currentPage=1
+2026-04-29 15:11:25 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:11:25 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'lipstick' | scraped 0 products
+2026-04-29 15:11:25 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_lipstick.json
+2026-04-29 15:11:25 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=mascara&currentPage=1
+2026-04-29 15:11:25 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:11:25 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'mascara' | scraped 0 products
+2026-04-29 15:11:25 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_mascara.json
+2026-04-29 15:11:25 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=foundation&currentPage=1
+2026-04-29 15:11:26 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:11:26 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'foundation' | scraped 0 products
+2026-04-29 15:11:26 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_foundation.json
+2026-04-29 15:11:26 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=eyeshadow&currentPage=1
+2026-04-29 15:11:26 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:11:26 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'eyeshadow' | scraped 0 products
+2026-04-29 15:11:26 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_eyeshadow.json
+2026-04-29 15:11:26 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=blush&currentPage=1
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'blush' | scraped 0 products
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_blush.json
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=concealer&currentPage=1
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'concealer' | scraped 0 products
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_concealer.json
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=primer&currentPage=1
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'primer' | scraped 0 products
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_primer.json
+2026-04-29 15:11:27 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=setting_spray&currentPage=1
+2026-04-29 15:11:28 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:11:28 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'setting_spray' | scraped 0 products
+2026-04-29 15:11:28 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_setting_spray.json
+2026-04-29 15:18:00 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=lipstick&currentPage=1
+2026-04-29 15:18:00 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:18:00 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'lipstick' | scraped 0 products
+2026-04-29 15:18:00 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_lipstick.json
+2026-04-29 15:18:00 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=mascara&currentPage=1
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'mascara' | scraped 0 products
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_mascara.json
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=foundation&currentPage=1
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'foundation' | scraped 0 products
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_foundation.json
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=eyeshadow&currentPage=1
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'eyeshadow' | scraped 0 products
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_eyeshadow.json
+2026-04-29 15:18:01 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=blush&currentPage=1
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'blush' | scraped 0 products
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_blush.json
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=concealer&currentPage=1
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'concealer' | scraped 0 products
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_concealer.json
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=primer&currentPage=1
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'primer' | scraped 0 products
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_primer.json
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=setting_spray&currentPage=1
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'setting_spray' | scraped 0 products
+2026-04-29 15:18:02 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_setting_spray.json
+2026-04-29 16:41:58 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=lipstick&currentPage=1
+2026-04-29 16:41:58 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 16:41:58 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'lipstick' | scraped 0 products
+2026-04-29 16:41:58 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_lipstick.json
+2026-04-29 16:41:58 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=mascara&currentPage=1
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'mascara' | scraped 0 products
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_mascara.json
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=foundation&currentPage=1
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'foundation' | scraped 0 products
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_foundation.json
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=eyeshadow&currentPage=1
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'eyeshadow' | scraped 0 products
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_eyeshadow.json
+2026-04-29 16:41:59 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=blush&currentPage=1
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'blush' | scraped 0 products
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_blush.json
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=concealer&currentPage=1
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'concealer' | scraped 0 products
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_concealer.json
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=primer&currentPage=1
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'primer' | scraped 0 products
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_primer.json
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_category:192 | Sephora | page 1 | https://www.sephora.com/search?keyword=setting_spray&currentPage=1
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_category:208 | No products found on page 1 — stopping.
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_category:220 | Sephora | 'setting_spray' | scraped 0 products
+2026-04-29 16:42:00 | sephora_scraper | INFO | scrape_all:234 | Saved 0 products → /Users/yanoperdices/Downloads/files/data/raw/sephora_setting_spray.json

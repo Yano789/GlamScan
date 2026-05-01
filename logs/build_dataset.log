@@ -1,0 +1,459 @@
+2026-04-29 15:12:33 | build_dataset | INFO | build_dataset:123 | === Building dataset ===
+2026-04-29 15:12:33 | build_dataset | INFO | load_json_files:44 | Loading 16 JSON files from /Users/yanoperdices/Downloads/files/data/raw
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_concealer.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_lipstick.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_blush.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_foundation.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_primer.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_eyeshadow.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_setting_spray.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_foundation.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_blush.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_eyeshadow.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_concealer.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_mascara.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_lipstick.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_primer.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_setting_spray.json
+2026-04-29 15:12:33 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_mascara.json
+2026-04-29 15:12:33 | build_dataset | INFO | load_json_files:57 | Total products loaded: 400
+2026-04-29 15:12:33 | build_dataset | INFO | deduplicate_by_hash:78 | Deduplication: removed 1 duplicates (400 → 399)
+2026-04-29 15:12:34 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000000
+2026-04-29 15:12:34 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000001
+2026-04-29 15:12:35 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000002
+2026-04-29 15:12:35 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000003
+2026-04-29 15:12:36 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000004
+2026-04-29 15:12:37 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000005
+2026-04-29 15:12:37 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000006
+2026-04-29 15:12:38 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000007
+2026-04-29 15:12:38 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000008
+2026-04-29 15:12:39 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000009
+2026-04-29 15:12:40 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000010
+2026-04-29 15:12:40 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000011
+2026-04-29 15:12:41 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000012
+2026-04-29 15:12:42 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000013
+2026-04-29 15:12:42 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000014
+2026-04-29 15:12:43 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000015
+2026-04-29 15:12:44 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000016
+2026-04-29 15:12:44 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000017
+2026-04-29 15:12:45 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000018
+2026-04-29 15:12:45 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000019
+2026-04-29 15:12:46 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000020
+2026-04-29 15:12:47 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000021
+2026-04-29 15:12:47 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000022
+2026-04-29 15:12:48 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000023
+2026-04-29 15:12:48 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000024
+2026-04-29 15:12:49 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000025
+2026-04-29 15:12:50 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000026
+2026-04-29 15:12:50 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000027
+2026-04-29 15:12:51 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000028
+2026-04-29 15:12:51 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000029
+2026-04-29 15:12:52 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000030
+2026-04-29 15:12:53 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000031
+2026-04-29 15:12:53 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000032
+2026-04-29 15:12:54 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000033
+2026-04-29 15:12:54 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000034
+2026-04-29 15:12:55 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000035
+2026-04-29 15:12:56 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000036
+2026-04-29 15:12:56 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000037
+2026-04-29 15:12:57 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000038
+2026-04-29 15:12:57 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000039
+2026-04-29 15:12:58 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000040
+2026-04-29 15:12:59 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000041
+2026-04-29 15:12:59 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000042
+2026-04-29 15:13:00 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000043
+2026-04-29 15:13:00 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000044
+2026-04-29 15:13:01 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000045
+2026-04-29 15:13:02 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000046
+2026-04-29 15:13:02 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000047
+2026-04-29 15:13:03 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000048
+2026-04-29 15:13:04 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000049
+2026-04-29 15:13:04 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000050
+2026-04-29 15:13:05 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000051
+2026-04-29 15:13:06 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000052
+2026-04-29 15:13:06 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000053
+2026-04-29 15:13:07 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000054
+2026-04-29 15:13:07 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000055
+2026-04-29 15:13:08 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000056
+2026-04-29 15:13:09 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000057
+2026-04-29 15:13:09 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000058
+2026-04-29 15:13:10 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000059
+2026-04-29 15:13:10 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000060
+2026-04-29 15:13:11 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000061
+2026-04-29 15:13:12 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000062
+2026-04-29 15:13:12 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000063
+2026-04-29 15:13:13 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000064
+2026-04-29 15:13:14 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000065
+2026-04-29 15:13:14 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000066
+2026-04-29 15:13:15 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000067
+2026-04-29 15:13:16 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000068
+2026-04-29 15:13:16 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000069
+2026-04-29 15:13:17 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000070
+2026-04-29 15:13:18 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000071
+2026-04-29 15:13:18 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000072
+2026-04-29 15:13:19 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000073
+2026-04-29 15:13:20 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000074
+2026-04-29 15:13:20 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000075
+2026-04-29 15:13:21 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000076
+2026-04-29 15:13:22 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000077
+2026-04-29 15:13:22 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000078
+2026-04-29 15:13:23 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000079
+2026-04-29 15:13:24 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000080
+2026-04-29 15:13:24 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000081
+2026-04-29 15:13:25 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000082
+2026-04-29 15:13:25 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000083
+2026-04-29 15:13:26 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000084
+2026-04-29 15:13:27 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000085
+2026-04-29 15:13:27 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000086
+2026-04-29 15:13:28 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000087
+2026-04-29 15:13:29 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000088
+2026-04-29 15:13:29 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000089
+2026-04-29 15:13:30 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000090
+2026-04-29 15:13:30 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000091
+2026-04-29 15:13:31 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000092
+2026-04-29 15:13:31 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000093
+2026-04-29 15:13:32 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000094
+2026-04-29 15:13:33 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000095
+2026-04-29 15:13:33 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000096
+2026-04-29 15:13:34 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000097
+2026-04-29 15:13:35 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000098
+2026-04-29 15:13:35 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000099
+2026-04-29 15:13:36 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000100
+2026-04-29 15:13:37 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000101
+2026-04-29 15:13:37 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000102
+2026-04-29 15:13:38 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000103
+2026-04-29 15:13:38 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000104
+2026-04-29 15:13:39 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000105
+2026-04-29 15:13:40 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000106
+2026-04-29 15:13:40 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000107
+2026-04-29 15:13:41 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000108
+2026-04-29 15:13:41 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000109
+2026-04-29 15:13:42 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000110
+2026-04-29 15:13:43 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000111
+2026-04-29 15:13:43 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000112
+2026-04-29 15:13:44 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000113
+2026-04-29 15:13:45 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000114
+2026-04-29 15:13:45 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000115
+2026-04-29 15:13:46 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000116
+2026-04-29 15:13:46 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000117
+2026-04-29 15:13:47 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000118
+2026-04-29 15:13:48 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000119
+2026-04-29 15:13:48 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000120
+2026-04-29 15:13:49 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000121
+2026-04-29 15:13:49 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000122
+2026-04-29 15:13:50 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000123
+2026-04-29 15:13:51 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000124
+2026-04-29 15:13:51 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000125
+2026-04-29 15:13:52 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000126
+2026-04-29 15:13:52 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000127
+2026-04-29 15:13:53 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000128
+2026-04-29 15:13:54 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000129
+2026-04-29 15:13:54 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000130
+2026-04-29 15:13:55 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000131
+2026-04-29 15:13:56 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000132
+2026-04-29 15:13:56 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000133
+2026-04-29 15:13:57 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000134
+2026-04-29 15:13:57 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000135
+2026-04-29 15:13:58 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000136
+2026-04-29 15:13:59 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000137
+2026-04-29 15:13:59 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000138
+2026-04-29 15:14:00 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000139
+2026-04-29 15:14:00 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000140
+2026-04-29 15:14:01 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000141
+2026-04-29 15:14:01 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000142
+2026-04-29 15:14:02 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000143
+2026-04-29 15:14:03 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000144
+2026-04-29 15:14:03 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000145
+2026-04-29 15:14:04 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000146
+2026-04-29 15:14:04 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000147
+2026-04-29 15:14:05 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000148
+2026-04-29 15:14:06 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000149
+2026-04-29 15:14:06 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000150
+2026-04-29 15:14:07 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000151
+2026-04-29 15:14:07 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000152
+2026-04-29 15:14:08 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000153
+2026-04-29 15:14:09 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000154
+2026-04-29 15:14:09 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000155
+2026-04-29 15:14:10 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000156
+2026-04-29 15:14:10 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000157
+2026-04-29 15:14:11 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000158
+2026-04-29 15:14:11 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000159
+2026-04-29 15:14:12 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000160
+2026-04-29 15:14:13 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000161
+2026-04-29 15:14:13 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000162
+2026-04-29 15:14:14 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000163
+2026-04-29 15:14:15 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000164
+2026-04-29 15:14:15 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000165
+2026-04-29 15:14:16 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000166
+2026-04-29 15:14:16 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000167
+2026-04-29 15:14:17 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000168
+2026-04-29 15:14:18 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000169
+2026-04-29 15:14:18 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000170
+2026-04-29 15:14:19 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000171
+2026-04-29 15:14:19 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000172
+2026-04-29 15:14:20 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000173
+2026-04-29 15:14:20 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000174
+2026-04-29 15:14:21 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000175
+2026-04-29 15:14:22 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000176
+2026-04-29 15:14:22 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000177
+2026-04-29 15:14:23 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000178
+2026-04-29 15:14:23 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000179
+2026-04-29 15:14:24 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000180
+2026-04-29 15:14:24 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000181
+2026-04-29 15:14:25 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000182
+2026-04-29 15:14:26 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000183
+2026-04-29 15:14:26 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000184
+2026-04-29 15:14:27 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000185
+2026-04-29 15:14:28 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000186
+2026-04-29 15:14:28 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000187
+2026-04-29 15:14:29 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000188
+2026-04-29 15:14:29 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000189
+2026-04-29 15:14:30 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000190
+2026-04-29 15:14:31 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000191
+2026-04-29 15:14:31 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000192
+2026-04-29 15:14:32 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000193
+2026-04-29 15:14:32 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000194
+2026-04-29 15:14:33 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000195
+2026-04-29 15:14:33 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000196
+2026-04-29 15:14:34 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000197
+2026-04-29 15:14:35 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000198
+2026-04-29 15:14:35 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000199
+2026-04-29 15:14:36 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000200
+2026-04-29 15:14:36 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000201
+2026-04-29 15:14:37 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000202
+2026-04-29 15:14:38 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000203
+2026-04-29 15:14:38 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000204
+2026-04-29 15:14:39 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000205
+2026-04-29 15:14:39 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000206
+2026-04-29 15:14:40 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000207
+2026-04-29 15:14:41 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000208
+2026-04-29 15:14:41 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000209
+2026-04-29 15:14:42 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000210
+2026-04-29 15:14:42 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000211
+2026-04-29 15:14:43 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000212
+2026-04-29 15:14:44 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000213
+2026-04-29 15:14:44 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000214
+2026-04-29 15:14:45 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000215
+2026-04-29 15:14:45 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000216
+2026-04-29 15:14:46 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000217
+2026-04-29 15:14:47 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000218
+2026-04-29 15:14:47 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000219
+2026-04-29 15:14:48 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000220
+2026-04-29 15:15:03 | build_dataset | INFO | build_dataset:123 | === Building dataset ===
+2026-04-29 15:15:03 | build_dataset | INFO | load_json_files:44 | Loading 16 JSON files from /Users/yanoperdices/Downloads/files/data/raw
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_concealer.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_lipstick.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_blush.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_foundation.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_primer.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_eyeshadow.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_setting_spray.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_foundation.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_blush.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_eyeshadow.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_concealer.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_mascara.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_lipstick.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_primer.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_setting_spray.json
+2026-04-29 15:15:03 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_mascara.json
+2026-04-29 15:15:03 | build_dataset | INFO | load_json_files:57 | Total products loaded: 400
+2026-04-29 15:15:03 | build_dataset | INFO | deduplicate_by_hash:78 | Deduplication: removed 1 duplicates (400 → 399)
+2026-04-29 15:16:54 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000221
+2026-04-29 15:16:55 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000222
+2026-04-29 15:16:55 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000223
+2026-04-29 15:16:56 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000224
+2026-04-29 15:16:57 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000225
+2026-04-29 15:16:57 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000226
+2026-04-29 15:16:58 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000227
+2026-04-29 15:16:59 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000228
+2026-04-29 15:16:59 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000229
+2026-04-29 15:17:00 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000230
+2026-04-29 15:17:01 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000231
+2026-04-29 15:17:01 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000232
+2026-04-29 15:17:02 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000233
+2026-04-29 15:17:02 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000234
+2026-04-29 15:17:03 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000235
+2026-04-29 15:17:04 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000236
+2026-04-29 15:17:04 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000237
+2026-04-29 15:17:05 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000238
+2026-04-29 15:17:05 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000239
+2026-04-29 15:17:06 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000240
+2026-04-29 15:17:07 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000241
+2026-04-29 15:17:07 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000242
+2026-04-29 15:17:08 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000243
+2026-04-29 15:17:09 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000244
+2026-04-29 15:17:09 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000245
+2026-04-29 15:17:10 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000246
+2026-04-29 15:17:10 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000247
+2026-04-29 15:17:11 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000248
+2026-04-29 15:17:12 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000249
+2026-04-29 15:17:12 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000250
+2026-04-29 15:17:13 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000251
+2026-04-29 15:17:14 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000252
+2026-04-29 15:17:14 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000253
+2026-04-29 15:17:15 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000254
+2026-04-29 15:17:15 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000255
+2026-04-29 15:17:16 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000256
+2026-04-29 15:17:16 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000257
+2026-04-29 15:17:17 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000258
+2026-04-29 15:17:18 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000259
+2026-04-29 15:17:18 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000260
+2026-04-29 15:17:19 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000261
+2026-04-29 15:17:20 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000262
+2026-04-29 15:17:20 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000263
+2026-04-29 15:17:21 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000264
+2026-04-29 15:17:22 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000265
+2026-04-29 15:17:22 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000266
+2026-04-29 15:17:23 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000267
+2026-04-29 15:17:24 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000268
+2026-04-29 15:17:24 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000269
+2026-04-29 15:17:25 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000270
+2026-04-29 15:17:26 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000271
+2026-04-29 15:17:26 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000272
+2026-04-29 15:17:27 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000273
+2026-04-29 15:17:28 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000274
+2026-04-29 15:17:28 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000275
+2026-04-29 15:17:29 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000276
+2026-04-29 15:17:30 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000277
+2026-04-29 15:17:30 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000278
+2026-04-29 15:17:31 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000279
+2026-04-29 15:17:31 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000280
+2026-04-29 15:17:32 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000281
+2026-04-29 15:17:33 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000282
+2026-04-29 15:17:33 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000283
+2026-04-29 15:17:34 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000284
+2026-04-29 15:17:35 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000285
+2026-04-29 15:17:35 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000286
+2026-04-29 15:17:36 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000287
+2026-04-29 15:17:36 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000288
+2026-04-29 15:17:37 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000289
+2026-04-29 15:17:38 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000290
+2026-04-29 15:17:38 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000291
+2026-04-29 15:17:39 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000292
+2026-04-29 15:17:39 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000293
+2026-04-29 15:17:40 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000294
+2026-04-29 15:17:41 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000295
+2026-04-29 15:17:41 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000296
+2026-04-29 15:17:42 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000297
+2026-04-29 15:17:42 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000298
+2026-04-29 15:17:43 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000299
+2026-04-29 15:17:44 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000300
+2026-04-29 15:17:44 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000301
+2026-04-29 15:17:45 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000302
+2026-04-29 15:17:45 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000303
+2026-04-29 15:17:46 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000304
+2026-04-29 15:17:47 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000305
+2026-04-29 15:17:47 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000306
+2026-04-29 15:17:48 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000307
+2026-04-29 15:17:48 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000308
+2026-04-29 15:17:49 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000309
+2026-04-29 15:17:50 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000310
+2026-04-29 15:17:50 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000311
+2026-04-29 15:17:51 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000312
+2026-04-29 15:17:51 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000313
+2026-04-29 15:17:52 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000314
+2026-04-29 15:17:52 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000315
+2026-04-29 15:18:53 | build_dataset | INFO | build_dataset:123 | === Building dataset ===
+2026-04-29 15:18:53 | build_dataset | INFO | load_json_files:44 | Loading 16 JSON files from /Users/yanoperdices/Downloads/files/data/raw
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_concealer.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_lipstick.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_blush.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_foundation.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_primer.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_eyeshadow.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_setting_spray.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_foundation.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_blush.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_eyeshadow.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_concealer.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_mascara.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_lipstick.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_primer.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 50 products from amazon_setting_spray.json
+2026-04-29 15:18:53 | build_dataset | DEBUG | load_json_files:53 | Loaded 0 products from sephora_mascara.json
+2026-04-29 15:18:53 | build_dataset | INFO | load_json_files:57 | Total products loaded: 400
+2026-04-29 15:18:53 | build_dataset | INFO | deduplicate_by_hash:78 | Deduplication: removed 1 duplicates (400 → 399)
+2026-04-29 15:21:33 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000317
+2026-04-29 15:21:33 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000318
+2026-04-29 15:21:34 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000319
+2026-04-29 15:21:35 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000320
+2026-04-29 15:21:35 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000321
+2026-04-29 15:21:36 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000322
+2026-04-29 15:21:36 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000323
+2026-04-29 15:21:37 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000324
+2026-04-29 15:21:38 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000325
+2026-04-29 15:21:38 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000326
+2026-04-29 15:21:39 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000327
+2026-04-29 15:21:39 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000328
+2026-04-29 15:21:40 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000329
+2026-04-29 15:21:41 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000330
+2026-04-29 15:21:41 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000331
+2026-04-29 15:21:42 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000332
+2026-04-29 15:21:42 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000333
+2026-04-29 15:21:43 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000334
+2026-04-29 15:21:44 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000335
+2026-04-29 15:21:45 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000336
+2026-04-29 15:21:45 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000337
+2026-04-29 15:21:46 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000338
+2026-04-29 15:21:46 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000339
+2026-04-29 15:21:47 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000340
+2026-04-29 15:21:47 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000341
+2026-04-29 15:21:48 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000342
+2026-04-29 15:21:49 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000343
+2026-04-29 15:21:49 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000344
+2026-04-29 15:21:50 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000345
+2026-04-29 15:21:50 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000346
+2026-04-29 15:21:51 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000347
+2026-04-29 15:21:52 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000348
+2026-04-29 15:21:52 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000349
+2026-04-29 15:21:53 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000350
+2026-04-29 15:21:53 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000351
+2026-04-29 15:21:54 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000352
+2026-04-29 15:21:54 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000353
+2026-04-29 15:21:55 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000354
+2026-04-29 15:21:56 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000355
+2026-04-29 15:21:56 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000356
+2026-04-29 15:21:57 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000357
+2026-04-29 15:21:57 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000358
+2026-04-29 15:21:58 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000359
+2026-04-29 15:21:58 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000360
+2026-04-29 15:21:59 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000361
+2026-04-29 15:22:00 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000362
+2026-04-29 15:22:00 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000363
+2026-04-29 15:22:01 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000364
+2026-04-29 15:22:01 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000365
+2026-04-29 15:22:02 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000366
+2026-04-29 15:22:03 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000367
+2026-04-29 15:22:03 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000368
+2026-04-29 15:22:04 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000369
+2026-04-29 15:22:04 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000370
+2026-04-29 15:22:05 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000371
+2026-04-29 15:22:06 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000372
+2026-04-29 15:22:06 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000373
+2026-04-29 15:22:07 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000374
+2026-04-29 15:22:07 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000375
+2026-04-29 15:22:08 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000376
+2026-04-29 15:22:09 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000377
+2026-04-29 15:22:09 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000378
+2026-04-29 15:22:10 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000379
+2026-04-29 15:22:10 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000380
+2026-04-29 15:22:11 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000381
+2026-04-29 15:22:12 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000382
+2026-04-29 15:22:12 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000383
+2026-04-29 15:22:13 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000384
+2026-04-29 15:22:14 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000385
+2026-04-29 15:22:14 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000386
+2026-04-29 15:22:15 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000387
+2026-04-29 15:22:15 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000388
+2026-04-29 15:22:16 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000389
+2026-04-29 15:22:17 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000390
+2026-04-29 15:22:17 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000391
+2026-04-29 15:22:18 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000392
+2026-04-29 15:22:18 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000393
+2026-04-29 15:22:19 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000394
+2026-04-29 15:22:20 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000395
+2026-04-29 15:22:20 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000396
+2026-04-29 15:22:21 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000397
+2026-04-29 15:22:22 | build_dataset | DEBUG | download_image:113 | Downloaded image for prod_000398
+2026-04-29 15:22:22 | build_dataset | INFO | build_dataset:160 | Saved 399 products to /Users/yanoperdices/Downloads/files/data/processed/products.csv

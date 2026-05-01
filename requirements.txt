@@ -1,0 +1,30 @@
+# GlamScan Requirements
+# ────────────────────────────────────────────────────────────────────────────
+
+# Core data & ML
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# CLIP (zero-shot embeddings)
+open-clip-torch>=2.24.0
+torch>=2.0.0
+
+# FAISS (similarity search)
+faiss-cpu>=1.7.4
+
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+httpx>=0.25.0
+
+# API
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
+
+# Frontend
+streamlit>=1.28.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0

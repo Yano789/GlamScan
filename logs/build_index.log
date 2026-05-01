@@ -1,0 +1,16 @@
+2026-04-29 15:23:04 | build_index | INFO | build_index:24 | === Building FAISS index ===
+2026-04-29 15:23:04 | build_index | INFO | build_index:33 | Loaded embeddings shape: (399, 512)
+2026-04-29 15:23:04 | build_index | INFO | build_index:39 | Small dataset (399 products). Using IndexFlatIP (exact).
+2026-04-29 15:23:04 | build_index | INFO | build_index:52 | Adding 399 embeddings to index...
+2026-04-29 15:23:04 | build_index | INFO | build_index:63 | Saved FAISS index to /Users/yanoperdices/Downloads/files/outputs/faiss_index.bin
+2026-04-29 15:23:04 | build_index | INFO | build_index:65 | === Index building complete ===
+2026-04-29 15:23:04 | build_index | INFO | build_index:66 | Index type: IndexFlatIP
+2026-04-29 15:23:04 | build_index | INFO | build_index:67 | Index size: 399 products × 512 dimensions
+2026-04-29 16:31:34 | build_index | INFO | build_index:24 | === Building FAISS index ===
+2026-04-29 16:31:34 | build_index | INFO | build_index:33 | Loaded embeddings shape: (399, 512)
+2026-04-29 16:31:34 | build_index | INFO | build_index:39 | Small dataset (399 products). Using IndexFlatIP (exact).
+2026-04-29 16:31:34 | build_index | INFO | build_index:52 | Adding 399 embeddings to index...
+2026-04-29 16:31:34 | build_index | INFO | build_index:63 | Saved FAISS index to /Users/yanoperdices/Downloads/files/outputs/faiss_index.bin
+2026-04-29 16:31:34 | build_index | INFO | build_index:65 | === Index building complete ===
+2026-04-29 16:31:34 | build_index | INFO | build_index:66 | Index type: IndexFlatIP
+2026-04-29 16:31:34 | build_index | INFO | build_index:67 | Index size: 399 products × 512 dimensions
