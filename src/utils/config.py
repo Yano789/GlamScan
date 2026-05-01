@@ -24,12 +24,18 @@ DATA_IMAGES.mkdir(parents=True, exist_ok=True)
 OUTPUTS_DIR.mkdir(parents=True, exist_ok=True)
 
 # ── CLIP Model ─────────────────────────────────────────────────────────────────
-# Note: ViT-B-32 crashes on M2 8GB RAM. Using ViT-B-16 instead.
-# Both produce 512-dim embeddings, but with different semantic space.
-# Regenerate embeddings on Colab GPU with this model.
-CLIP_MODEL = "ViT-B-16"
+# ViT-L-14 is optimal for 8GB GPUs (RTX 4060, RTX 3060).
+# 768-dim embeddings with excellent accuracy.
+# For 10GB+ GPUs, use ViT-bigG-14 (1280-dim, highest accuracy).
+CLIP_MODEL = "ViT-L-14"
 CLIP_PRETRAINED = "openai"
-EMBEDDING_DIM = 512
+EMBEDDING_DIM = 768
+
+# ── GPU Optimization ──────────────────────────────────────────────────────────
+# Increase batch size for GPU to maximize throughput
+EMBEDDING_BATCH_SIZE = 64  # Increase if GPU has >8GB VRAM, decrease for <8GB
+# Use mixed precision (fp16) for faster inference on supported GPUs
+USE_MIXED_PRECISION = True  # torch.float16 vs torch.float32
 
 # ── FAISS Index ────────────────────────────────────────────────────────────────
 FAISS_INDEX_PATH = OUTPUTS_DIR / "faiss_index.bin"
@@ -63,6 +69,7 @@ IMAGE_MAX_SIZE = 10 * 1024 * 1024  # 10 MB
 # ── Search ────────────────────────────────────────────────────────────────────
 TOP_K = 10  # Return top-K similar products
 FAISS_THRESHOLD = 10000  # Use approximate index (IVFFlat) if products > threshold
+MIN_SIMILARITY = 0.70  # Filter out results below 70% similarity for image search (relaxed with more data)
 
 # ── API ───────────────────────────────────────────────────────────────────────
 API_HOST = "0.0.0.0"

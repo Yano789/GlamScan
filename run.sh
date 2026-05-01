@@ -47,9 +47,8 @@ section() {
 
 case "${1:-all}" in
     scrape)
-        section "SCRAPING: Sephora + Amazon"
-        python -m src.data.scrape_sephora --max 50
-        python -m src.data.scrape_amazon --max 50
+        section "SCRAPING: Amazon (500 per category)"
+        python -m src.data.scrape_amazon --max 500
         ;;
 
     build)
@@ -70,8 +69,7 @@ case "${1:-all}" in
     all)
         section "FULL PIPELINE"
         echo -e "${YELLOW}Step 1/4: Scraping${NC}"
-        python -m src.data.scrape_sephora --max 50
-        python -m src.data.scrape_amazon --max 50
+        python -m src.data.scrape_amazon --max 500
 
         echo ""
         echo -e "${YELLOW}Step 2/4: Building${NC}"

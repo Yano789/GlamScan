@@ -22,3 +22,82 @@
 2026-04-29 16:31:24 | infer_embedder | INFO | infer_embeddings:121 | === Embedding complete ===
 2026-04-29 16:31:24 | infer_embedder | INFO | infer_embeddings:122 | Successfully embedded: 399
 2026-04-29 16:31:24 | infer_embedder | INFO | infer_embeddings:123 | Failed: 0
+2026-05-01 22:46:48 | infer_embedder | INFO | infer_embeddings:46 | === Generating embeddings ===
+2026-05-01 22:46:48 | infer_embedder | INFO | load_products_csv:40 | Loaded 300 products from CSV
+2026-05-01 22:47:05 | infer_embedder | INFO | infer_embeddings:61 | Processing 300 products
+2026-05-01 22:47:07 | infer_embedder | INFO | infer_embeddings:100 | Processed 100 / 300 products
+2026-05-01 22:47:09 | infer_embedder | INFO | infer_embeddings:100 | Processed 200 / 300 products
+2026-05-01 22:47:11 | infer_embedder | INFO | infer_embeddings:100 | Processed 300 / 300 products
+2026-05-01 22:47:11 | infer_embedder | INFO | infer_embeddings:112 | Embeddings shape: (300, 512)
+2026-05-01 22:47:11 | infer_embedder | INFO | infer_embeddings:115 | Saved embeddings to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/embeddings.npy
+2026-05-01 22:47:11 | infer_embedder | INFO | infer_embeddings:119 | Saved metadata to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/metadata.json
+2026-05-01 22:47:11 | infer_embedder | INFO | infer_embeddings:121 | === Embedding complete ===
+2026-05-01 22:47:11 | infer_embedder | INFO | infer_embeddings:122 | Successfully embedded: 300
+2026-05-01 22:47:11 | infer_embedder | INFO | infer_embeddings:123 | Failed: 0
+2026-05-01 23:20:52 | infer_embedder | INFO | infer_embeddings:46 | === Generating embeddings ===
+2026-05-01 23:20:52 | infer_embedder | INFO | load_products_csv:40 | Loaded 400 products from CSV
+2026-05-01 23:21:37 | infer_embedder | INFO | infer_embeddings:61 | Processing 400 products
+2026-05-01 23:21:41 | infer_embedder | INFO | infer_embeddings:100 | Processed 100 / 400 products
+2026-05-01 23:21:43 | infer_embedder | INFO | infer_embeddings:100 | Processed 200 / 400 products
+2026-05-01 23:21:46 | infer_embedder | INFO | infer_embeddings:100 | Processed 300 / 400 products
+2026-05-01 23:21:49 | infer_embedder | INFO | infer_embeddings:100 | Processed 400 / 400 products
+2026-05-01 23:21:49 | infer_embedder | INFO | infer_embeddings:112 | Embeddings shape: (400, 768)
+2026-05-01 23:21:49 | infer_embedder | INFO | infer_embeddings:115 | Saved embeddings to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/embeddings.npy
+2026-05-01 23:21:49 | infer_embedder | INFO | infer_embeddings:119 | Saved metadata to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/metadata.json
+2026-05-01 23:21:49 | infer_embedder | INFO | infer_embeddings:121 | === Embedding complete ===
+2026-05-01 23:21:49 | infer_embedder | INFO | infer_embeddings:122 | Successfully embedded: 400
+2026-05-01 23:21:49 | infer_embedder | INFO | infer_embeddings:123 | Failed: 0
+2026-05-01 23:30:40 | infer_embedder | INFO | infer_embeddings:46 | === Generating embeddings ===
+2026-05-01 23:30:40 | infer_embedder | INFO | load_products_csv:40 | Loaded 400 products from CSV
+2026-05-01 23:38:27 | infer_embedder | INFO | infer_embeddings:46 | === Generating embeddings ===
+2026-05-01 23:38:27 | infer_embedder | INFO | load_products_csv:40 | Loaded 400 products from CSV
+2026-05-01 23:38:33 | infer_embedder | INFO | infer_embeddings:61 | Processing 400 products
+2026-05-01 23:38:36 | infer_embedder | INFO | infer_embeddings:100 | Processed 100 / 400 products
+2026-05-01 23:38:39 | infer_embedder | INFO | infer_embeddings:100 | Processed 200 / 400 products
+2026-05-01 23:38:41 | infer_embedder | INFO | infer_embeddings:100 | Processed 300 / 400 products
+2026-05-01 23:38:42 | infer_embedder | INFO | infer_embeddings:100 | Processed 400 / 400 products
+2026-05-01 23:38:42 | infer_embedder | INFO | infer_embeddings:112 | Embeddings shape: (400, 768)
+2026-05-01 23:38:42 | infer_embedder | INFO | infer_embeddings:115 | Saved embeddings to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/embeddings.npy
+2026-05-01 23:38:42 | infer_embedder | INFO | infer_embeddings:119 | Saved metadata to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/metadata.json
+2026-05-01 23:38:42 | infer_embedder | INFO | infer_embeddings:121 | === Embedding complete ===
+2026-05-01 23:38:42 | infer_embedder | INFO | infer_embeddings:122 | Successfully embedded: 400
+2026-05-01 23:38:42 | infer_embedder | INFO | infer_embeddings:123 | Failed: 0
+2026-05-01 23:54:38 | infer_embedder | INFO | infer_embeddings:46 | === Generating embeddings ===
+2026-05-01 23:54:38 | infer_embedder | INFO | load_products_csv:40 | Loaded 673 products from CSV
+2026-05-01 23:54:44 | infer_embedder | INFO | infer_embeddings:61 | Processing 673 products
+2026-05-01 23:54:47 | infer_embedder | INFO | infer_embeddings:100 | Processed 100 / 673 products
+2026-05-01 23:54:49 | infer_embedder | INFO | infer_embeddings:100 | Processed 200 / 673 products
+2026-05-01 23:54:50 | infer_embedder | INFO | infer_embeddings:100 | Processed 300 / 673 products
+2026-05-01 23:54:52 | infer_embedder | INFO | infer_embeddings:100 | Processed 400 / 673 products
+2026-05-01 23:54:54 | infer_embedder | INFO | infer_embeddings:100 | Processed 500 / 673 products
+2026-05-01 23:54:56 | infer_embedder | INFO | infer_embeddings:100 | Processed 600 / 673 products
+2026-05-01 23:54:58 | infer_embedder | INFO | infer_embeddings:112 | Embeddings shape: (673, 768)
+2026-05-01 23:54:58 | infer_embedder | INFO | infer_embeddings:115 | Saved embeddings to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/embeddings.npy
+2026-05-01 23:54:58 | infer_embedder | INFO | infer_embeddings:119 | Saved metadata to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/metadata.json
+2026-05-01 23:54:58 | infer_embedder | INFO | infer_embeddings:121 | === Embedding complete ===
+2026-05-01 23:54:58 | infer_embedder | INFO | infer_embeddings:122 | Successfully embedded: 673
+2026-05-01 23:54:58 | infer_embedder | INFO | infer_embeddings:123 | Failed: 0
+2026-05-02 00:41:01 | infer_embedder | INFO | infer_embeddings:46 | === Generating embeddings ===
+2026-05-02 00:41:01 | infer_embedder | INFO | load_products_csv:40 | Loaded 1515 products from CSV
+2026-05-02 00:41:07 | infer_embedder | INFO | infer_embeddings:61 | Processing 1515 products
+2026-05-02 00:41:10 | infer_embedder | INFO | infer_embeddings:100 | Processed 100 / 1515 products
+2026-05-02 00:41:13 | infer_embedder | INFO | infer_embeddings:100 | Processed 200 / 1515 products
+2026-05-02 00:41:15 | infer_embedder | INFO | infer_embeddings:100 | Processed 300 / 1515 products
+2026-05-02 00:41:16 | infer_embedder | INFO | infer_embeddings:100 | Processed 400 / 1515 products
+2026-05-02 00:41:18 | infer_embedder | INFO | infer_embeddings:100 | Processed 500 / 1515 products
+2026-05-02 00:41:21 | infer_embedder | INFO | infer_embeddings:100 | Processed 600 / 1515 products
+2026-05-02 00:41:23 | infer_embedder | INFO | infer_embeddings:100 | Processed 700 / 1515 products
+2026-05-02 00:41:25 | infer_embedder | INFO | infer_embeddings:100 | Processed 800 / 1515 products
+2026-05-02 00:41:28 | infer_embedder | INFO | infer_embeddings:100 | Processed 900 / 1515 products
+2026-05-02 00:41:30 | infer_embedder | INFO | infer_embeddings:100 | Processed 1000 / 1515 products
+2026-05-02 00:41:32 | infer_embedder | INFO | infer_embeddings:100 | Processed 1100 / 1515 products
+2026-05-02 00:41:34 | infer_embedder | INFO | infer_embeddings:100 | Processed 1200 / 1515 products
+2026-05-02 00:41:36 | infer_embedder | INFO | infer_embeddings:100 | Processed 1300 / 1515 products
+2026-05-02 00:41:39 | infer_embedder | INFO | infer_embeddings:100 | Processed 1400 / 1515 products
+2026-05-02 00:41:41 | infer_embedder | INFO | infer_embeddings:100 | Processed 1500 / 1515 products
+2026-05-02 00:41:41 | infer_embedder | INFO | infer_embeddings:112 | Embeddings shape: (1515, 768)
+2026-05-02 00:41:41 | infer_embedder | INFO | infer_embeddings:115 | Saved embeddings to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/embeddings.npy
+2026-05-02 00:41:41 | infer_embedder | INFO | infer_embeddings:119 | Saved metadata to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/metadata.json
+2026-05-02 00:41:41 | infer_embedder | INFO | infer_embeddings:121 | === Embedding complete ===
+2026-05-02 00:41:41 | infer_embedder | INFO | infer_embeddings:122 | Successfully embedded: 1515
+2026-05-02 00:41:41 | infer_embedder | INFO | infer_embeddings:123 | Failed: 0

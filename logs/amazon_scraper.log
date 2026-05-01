@@ -112,3 +112,325 @@
 2026-04-29 16:42:39 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
 2026-04-29 16:42:39 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'setting_spray' | scraped 50 products
 2026-04-29 16:42:40 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /Users/yanoperdices/Downloads/files/data/raw/amazon_setting_spray.json
+2026-05-01 22:43:15 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=lipstick&i=beauty&page=1
+2026-05-01 22:43:17 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 22:43:19 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'lipstick' | scraped 50 products
+2026-05-01 22:43:19 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_lipstick.json
+2026-05-01 22:43:19 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=mascara&i=beauty&page=1
+2026-05-01 22:43:19 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 0 result cards
+2026-05-01 22:43:19 | amazon_scraper | INFO | scrape_category:234 | No products on page 1 — likely end of results.
+2026-05-01 22:43:19 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'mascara' | scraped 0 products
+2026-05-01 22:43:19 | amazon_scraper | INFO | scrape_all:258 | Saved 0 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_mascara.json
+2026-05-01 22:43:19 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=foundation&i=beauty&page=1
+2026-05-01 22:43:21 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 22:43:24 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'foundation' | scraped 50 products
+2026-05-01 22:43:24 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_foundation.json
+2026-05-01 22:43:24 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=1
+2026-05-01 22:43:26 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-01 22:43:29 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=2
+2026-05-01 22:43:31 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 22:43:31 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'eyeshadow' | scraped 50 products
+2026-05-01 22:43:31 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_eyeshadow.json
+2026-05-01 22:43:31 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=blush&i=beauty&page=1
+2026-05-01 22:43:33 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 22:43:35 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'blush' | scraped 50 products
+2026-05-01 22:43:35 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_blush.json
+2026-05-01 22:43:35 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=concealer&i=beauty&page=1
+2026-05-01 22:43:37 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 22:43:38 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'concealer' | scraped 50 products
+2026-05-01 22:43:38 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_concealer.json
+2026-05-01 22:43:38 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=primer&i=beauty&page=1
+2026-05-01 22:43:41 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 22:43:42 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'primer' | scraped 50 products
+2026-05-01 22:43:43 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_primer.json
+2026-05-01 22:43:43 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=1
+2026-05-01 22:43:44 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 0 result cards
+2026-05-01 22:43:44 | amazon_scraper | INFO | scrape_category:234 | No products on page 1 — likely end of results.
+2026-05-01 22:43:44 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'setting_spray' | scraped 0 products
+2026-05-01 22:43:44 | amazon_scraper | INFO | scrape_all:258 | Saved 0 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_setting_spray.json
+2026-05-01 23:16:21 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=lipstick&i=beauty&page=1
+2026-05-01 23:16:23 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:16:24 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'lipstick' | scraped 50 products
+2026-05-01 23:16:24 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_lipstick.json
+2026-05-01 23:16:24 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=mascara&i=beauty&page=1
+2026-05-01 23:16:26 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-01 23:16:28 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=mascara&i=beauty&page=2
+2026-05-01 23:16:29 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:16:31 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'mascara' | scraped 50 products
+2026-05-01 23:16:31 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_mascara.json
+2026-05-01 23:16:31 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=foundation&i=beauty&page=1
+2026-05-01 23:16:33 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:16:36 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'foundation' | scraped 50 products
+2026-05-01 23:16:36 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_foundation.json
+2026-05-01 23:16:36 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=1
+2026-05-01 23:16:38 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:16:39 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'eyeshadow' | scraped 50 products
+2026-05-01 23:16:39 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_eyeshadow.json
+2026-05-01 23:16:39 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=blush&i=beauty&page=1
+2026-05-01 23:16:41 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-01 23:16:42 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=blush&i=beauty&page=2
+2026-05-01 23:16:44 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:16:44 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'blush' | scraped 50 products
+2026-05-01 23:16:44 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_blush.json
+2026-05-01 23:16:44 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=concealer&i=beauty&page=1
+2026-05-01 23:16:46 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:16:49 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'concealer' | scraped 50 products
+2026-05-01 23:16:49 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_concealer.json
+2026-05-01 23:16:49 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=primer&i=beauty&page=1
+2026-05-01 23:16:51 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:16:53 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'primer' | scraped 50 products
+2026-05-01 23:16:53 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_primer.json
+2026-05-01 23:16:53 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=1
+2026-05-01 23:16:54 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:16:57 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'setting_spray' | scraped 50 products
+2026-05-01 23:16:57 | amazon_scraper | INFO | scrape_all:258 | Saved 50 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_setting_spray.json
+2026-05-01 23:45:42 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=lipstick&i=beauty&page=1
+2026-05-01 23:45:43 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:45:46 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=lipstick&i=beauty&page=2
+2026-05-01 23:45:47 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:45:50 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=lipstick&i=beauty&page=3
+2026-05-01 23:45:52 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:45:54 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=lipstick&i=beauty&page=4
+2026-05-01 23:45:55 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:45:58 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'lipstick' | scraped 200 products
+2026-05-01 23:45:58 | amazon_scraper | INFO | scrape_all:258 | Saved 200 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_lipstick.json
+2026-05-01 23:45:58 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=mascara&i=beauty&page=1
+2026-05-01 23:46:00 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:01 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=mascara&i=beauty&page=2
+2026-05-01 23:46:03 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:05 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=mascara&i=beauty&page=3
+2026-05-01 23:46:06 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:08 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=mascara&i=beauty&page=4
+2026-05-01 23:46:10 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:13 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'mascara' | scraped 200 products
+2026-05-01 23:46:13 | amazon_scraper | INFO | scrape_all:258 | Saved 200 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_mascara.json
+2026-05-01 23:46:13 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=foundation&i=beauty&page=1
+2026-05-01 23:46:15 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-01 23:46:16 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=foundation&i=beauty&page=2
+2026-05-01 23:46:18 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:19 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=foundation&i=beauty&page=3
+2026-05-01 23:46:21 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-01 23:46:23 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=foundation&i=beauty&page=4
+2026-05-01 23:46:24 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:28 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'foundation' | scraped 200 products
+2026-05-01 23:46:28 | amazon_scraper | INFO | scrape_all:258 | Saved 200 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_foundation.json
+2026-05-01 23:46:28 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=1
+2026-05-01 23:46:30 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:32 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=2
+2026-05-01 23:46:32 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:35 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=3
+2026-05-01 23:46:37 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:39 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=4
+2026-05-01 23:46:41 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:43 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'eyeshadow' | scraped 200 products
+2026-05-01 23:46:43 | amazon_scraper | INFO | scrape_all:258 | Saved 200 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_eyeshadow.json
+2026-05-01 23:46:43 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=blush&i=beauty&page=1
+2026-05-01 23:46:45 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:48 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=blush&i=beauty&page=2
+2026-05-01 23:46:49 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:52 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=blush&i=beauty&page=3
+2026-05-01 23:46:54 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:56 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=blush&i=beauty&page=4
+2026-05-01 23:46:58 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:46:59 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'blush' | scraped 200 products
+2026-05-01 23:46:59 | amazon_scraper | INFO | scrape_all:258 | Saved 200 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_blush.json
+2026-05-01 23:46:59 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=concealer&i=beauty&page=1
+2026-05-01 23:47:01 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:47:02 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=concealer&i=beauty&page=2
+2026-05-01 23:47:04 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:47:05 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=concealer&i=beauty&page=3
+2026-05-01 23:47:07 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:47:09 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=concealer&i=beauty&page=4
+2026-05-01 23:47:11 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:47:11 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'concealer' | scraped 200 products
+2026-05-01 23:47:11 | amazon_scraper | INFO | scrape_all:258 | Saved 200 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_concealer.json
+2026-05-01 23:47:11 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=primer&i=beauty&page=1
+2026-05-01 23:47:14 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:47:15 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=primer&i=beauty&page=2
+2026-05-01 23:47:16 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:47:19 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=primer&i=beauty&page=3
+2026-05-01 23:47:21 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:47:23 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=primer&i=beauty&page=4
+2026-05-01 23:47:25 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-01 23:47:25 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'primer' | scraped 200 products
+2026-05-01 23:47:25 | amazon_scraper | INFO | scrape_all:258 | Saved 200 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_primer.json
+2026-05-01 23:47:25 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=1
+2026-05-01 23:47:26 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 0 result cards
+2026-05-01 23:47:26 | amazon_scraper | INFO | scrape_category:234 | No products on page 1 — likely end of results.
+2026-05-01 23:47:26 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'setting_spray' | scraped 0 products
+2026-05-01 23:47:26 | amazon_scraper | INFO | scrape_all:258 | Saved 0 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_setting_spray.json
+2026-05-02 00:19:36 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=lipstick&i=beauty&page=1
+2026-05-02 00:19:37 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:19:42 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:19:45 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=lipstick&i=beauty&page=2
+2026-05-02 00:19:46 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:19:49 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=lipstick&i=beauty&page=3
+2026-05-02 00:19:51 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:19:53 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=lipstick&i=beauty&page=4
+2026-05-02 00:19:55 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:19:58 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 5 | https://www.amazon.com/s?k=lipstick&i=beauty&page=5
+2026-05-02 00:19:59 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:01 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 6 | https://www.amazon.com/s?k=lipstick&i=beauty&page=6
+2026-05-02 00:20:03 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:05 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 7 | https://www.amazon.com/s?k=lipstick&i=beauty&page=7
+2026-05-02 00:20:07 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:09 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 8 | https://www.amazon.com/s?k=lipstick&i=beauty&page=8
+2026-05-02 00:20:10 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:12 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 9 | https://www.amazon.com/s?k=lipstick&i=beauty&page=9
+2026-05-02 00:20:14 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:15 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'lipstick' | scraped 500 products
+2026-05-02 00:20:15 | amazon_scraper | INFO | scrape_all:258 | Saved 500 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_lipstick.json
+2026-05-02 00:20:15 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=mascara&i=beauty&page=1
+2026-05-02 00:20:16 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:20:21 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:25 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=mascara&i=beauty&page=2
+2026-05-02 00:20:26 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:27 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=mascara&i=beauty&page=3
+2026-05-02 00:20:29 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:31 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=mascara&i=beauty&page=4
+2026-05-02 00:20:32 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:33 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 5 | https://www.amazon.com/s?k=mascara&i=beauty&page=5
+2026-05-02 00:20:34 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:36 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 6 | https://www.amazon.com/s?k=mascara&i=beauty&page=6
+2026-05-02 00:20:37 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:20:38 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 7 | https://www.amazon.com/s?k=mascara&i=beauty&page=7
+2026-05-02 00:20:39 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:40 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 8 | https://www.amazon.com/s?k=mascara&i=beauty&page=8
+2026-05-02 00:20:41 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:44 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 9 | https://www.amazon.com/s?k=mascara&i=beauty&page=9
+2026-05-02 00:20:46 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:49 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'mascara' | scraped 500 products
+2026-05-02 00:20:49 | amazon_scraper | INFO | scrape_all:258 | Saved 500 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_mascara.json
+2026-05-02 00:20:49 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=foundation&i=beauty&page=1
+2026-05-02 00:20:51 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:54 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=foundation&i=beauty&page=2
+2026-05-02 00:20:55 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:20:58 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=foundation&i=beauty&page=3
+2026-05-02 00:21:00 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:21:02 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=foundation&i=beauty&page=4
+2026-05-02 00:21:04 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:21:05 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 5 | https://www.amazon.com/s?k=foundation&i=beauty&page=5
+2026-05-02 00:21:07 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:08 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 6 | https://www.amazon.com/s?k=foundation&i=beauty&page=6
+2026-05-02 00:21:10 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:11 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 7 | https://www.amazon.com/s?k=foundation&i=beauty&page=7
+2026-05-02 00:21:11 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:14 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 8 | https://www.amazon.com/s?k=foundation&i=beauty&page=8
+2026-05-02 00:21:14 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:21:19 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:20 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 9 | https://www.amazon.com/s?k=foundation&i=beauty&page=9
+2026-05-02 00:21:22 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:21:24 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'foundation' | scraped 500 products
+2026-05-02 00:21:24 | amazon_scraper | INFO | scrape_all:258 | Saved 500 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_foundation.json
+2026-05-02 00:21:24 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=1
+2026-05-02 00:21:26 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:27 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=2
+2026-05-02 00:21:29 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:30 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=3
+2026-05-02 00:21:32 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:34 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=4
+2026-05-02 00:21:35 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:38 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 5 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=5
+2026-05-02 00:21:40 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:42 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 6 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=6
+2026-05-02 00:21:43 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:44 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 7 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=7
+2026-05-02 00:21:45 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:21:53 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:53 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 8 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=8
+2026-05-02 00:21:55 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:21:57 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 9 | https://www.amazon.com/s?k=eyeshadow&i=beauty&page=9
+2026-05-02 00:21:58 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:22:06 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:22:07 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'eyeshadow' | scraped 500 products
+2026-05-02 00:22:07 | amazon_scraper | INFO | scrape_all:258 | Saved 500 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_eyeshadow.json
+2026-05-02 00:22:07 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=blush&i=beauty&page=1
+2026-05-02 00:22:09 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:22:10 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=blush&i=beauty&page=2
+2026-05-02 00:22:11 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:22:12 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=blush&i=beauty&page=3
+2026-05-02 00:22:14 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:22:16 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=blush&i=beauty&page=4
+2026-05-02 00:22:17 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:22:19 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 5 | https://www.amazon.com/s?k=blush&i=beauty&page=5
+2026-05-02 00:22:20 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:22:26 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 2
+2026-05-02 00:22:33 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:22:34 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 6 | https://www.amazon.com/s?k=blush&i=beauty&page=6
+2026-05-02 00:22:35 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:22:37 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 7 | https://www.amazon.com/s?k=blush&i=beauty&page=7
+2026-05-02 00:22:38 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:22:40 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 8 | https://www.amazon.com/s?k=blush&i=beauty&page=8
+2026-05-02 00:22:41 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:22:45 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:22:47 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 9 | https://www.amazon.com/s?k=blush&i=beauty&page=9
+2026-05-02 00:22:48 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:22:54 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 2
+2026-05-02 00:23:01 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:23:03 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'blush' | scraped 500 products
+2026-05-02 00:23:03 | amazon_scraper | INFO | scrape_all:258 | Saved 500 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_blush.json
+2026-05-02 00:23:03 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=concealer&i=beauty&page=1
+2026-05-02 00:23:05 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:23:06 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=concealer&i=beauty&page=2
+2026-05-02 00:23:07 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:23:08 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=concealer&i=beauty&page=3
+2026-05-02 00:23:10 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:23:12 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=concealer&i=beauty&page=4
+2026-05-02 00:23:14 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:23:14 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 5 | https://www.amazon.com/s?k=concealer&i=beauty&page=5
+2026-05-02 00:23:15 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:23:18 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 6 | https://www.amazon.com/s?k=concealer&i=beauty&page=6
+2026-05-02 00:23:19 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:23:21 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 7 | https://www.amazon.com/s?k=concealer&i=beauty&page=7
+2026-05-02 00:23:22 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:23:23 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 8 | https://www.amazon.com/s?k=concealer&i=beauty&page=8
+2026-05-02 00:23:24 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:23:29 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:23:30 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 9 | https://www.amazon.com/s?k=concealer&i=beauty&page=9
+2026-05-02 00:23:31 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:23:38 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:23:41 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'concealer' | scraped 500 products
+2026-05-02 00:23:41 | amazon_scraper | INFO | scrape_all:258 | Saved 500 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_concealer.json
+2026-05-02 00:23:41 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=primer&i=beauty&page=1
+2026-05-02 00:23:43 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:23:45 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=primer&i=beauty&page=2
+2026-05-02 00:23:47 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:23:49 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=primer&i=beauty&page=3
+2026-05-02 00:23:51 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:23:53 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=primer&i=beauty&page=4
+2026-05-02 00:23:55 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:23:57 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 5 | https://www.amazon.com/s?k=primer&i=beauty&page=5
+2026-05-02 00:23:58 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:24:01 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 6 | https://www.amazon.com/s?k=primer&i=beauty&page=6
+2026-05-02 00:24:01 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:24:05 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 2
+2026-05-02 00:24:13 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:24:14 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 7 | https://www.amazon.com/s?k=primer&i=beauty&page=7
+2026-05-02 00:24:14 | amazon_scraper | WARNING | scrape_category:208 | HTTP 503 on attempt 1
+2026-05-02 00:24:18 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:24:20 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 8 | https://www.amazon.com/s?k=primer&i=beauty&page=8
+2026-05-02 00:24:22 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:24:24 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 9 | https://www.amazon.com/s?k=primer&i=beauty&page=9
+2026-05-02 00:24:25 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 48 result cards
+2026-05-02 00:24:28 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'primer' | scraped 500 products
+2026-05-02 00:24:28 | amazon_scraper | INFO | scrape_all:258 | Saved 500 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_primer.json
+2026-05-02 00:24:28 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 1 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=1
+2026-05-02 00:24:30 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 55 result cards
+2026-05-02 00:24:32 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 2 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=2
+2026-05-02 00:24:34 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:24:37 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 3 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=3
+2026-05-02 00:24:39 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:24:43 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 4 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=4
+2026-05-02 00:24:44 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:24:47 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 5 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=5
+2026-05-02 00:24:47 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:24:50 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 6 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=6
+2026-05-02 00:24:52 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:24:53 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 7 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=7
+2026-05-02 00:24:56 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:24:58 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 8 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=8
+2026-05-02 00:25:00 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:25:01 | amazon_scraper | INFO | scrape_category:198 | Amazon | page 9 | https://www.amazon.com/s?k=setting_spray&i=beauty&page=9
+2026-05-02 00:25:03 | amazon_scraper | DEBUG | _parse_search_page:99 | Found 60 result cards
+2026-05-02 00:25:06 | amazon_scraper | INFO | scrape_category:246 | Amazon | 'setting_spray' | scraped 500 products
+2026-05-02 00:25:06 | amazon_scraper | INFO | scrape_all:258 | Saved 500 products → /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/data/raw/amazon_setting_spray.json

@@ -14,3 +14,54 @@
 2026-04-29 16:31:34 | build_index | INFO | build_index:65 | === Index building complete ===
 2026-04-29 16:31:34 | build_index | INFO | build_index:66 | Index type: IndexFlatIP
 2026-04-29 16:31:34 | build_index | INFO | build_index:67 | Index size: 399 products × 512 dimensions
+2026-05-01 22:47:14 | build_index | INFO | build_index:24 | === Building FAISS index ===
+2026-05-01 22:47:14 | build_index | INFO | build_index:33 | Loaded embeddings shape: (300, 512)
+2026-05-01 22:47:14 | build_index | INFO | build_index:39 | Small dataset (300 products). Using IndexFlatIP (exact).
+2026-05-01 22:47:14 | build_index | INFO | build_index:52 | Adding 300 embeddings to index...
+2026-05-01 22:47:14 | build_index | INFO | build_index:63 | Saved FAISS index to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/faiss_index.bin
+2026-05-01 22:47:14 | build_index | INFO | build_index:65 | === Index building complete ===
+2026-05-01 22:47:14 | build_index | INFO | build_index:66 | Index type: IndexFlatIP
+2026-05-01 22:47:14 | build_index | INFO | build_index:67 | Index size: 300 products × 512 dimensions
+2026-05-01 23:21:52 | build_index | INFO | build_index:24 | === Building FAISS index ===
+2026-05-01 23:21:52 | build_index | INFO | build_index:33 | Loaded embeddings shape: (400, 768)
+2026-05-01 23:21:52 | build_index | INFO | build_index:39 | Small dataset (400 products). Using IndexFlatIP (exact).
+2026-05-01 23:21:52 | build_index | INFO | build_index:52 | Adding 400 embeddings to index...
+2026-05-01 23:21:52 | build_index | INFO | build_index:63 | Saved FAISS index to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/faiss_index.bin
+2026-05-01 23:21:52 | build_index | INFO | build_index:65 | === Index building complete ===
+2026-05-01 23:21:52 | build_index | INFO | build_index:66 | Index type: IndexFlatIP
+2026-05-01 23:21:52 | build_index | INFO | build_index:67 | Index size: 400 products × 768 dimensions
+2026-05-01 23:33:29 | build_index | INFO | build_index:24 | === Building FAISS index ===
+2026-05-01 23:33:29 | build_index | ERROR | build_index:28 | Embeddings file not found: /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/embeddings.npy
+2026-05-01 23:33:29 | build_index | INFO | build_index:29 | Run: python -m src.models.infer_embedder
+2026-05-01 23:38:46 | build_index | INFO | build_index:24 | === Building FAISS index ===
+2026-05-01 23:38:46 | build_index | INFO | build_index:33 | Loaded embeddings shape: (400, 768)
+2026-05-01 23:38:46 | build_index | INFO | build_index:39 | Small dataset (400 products). Using IndexFlatIP (exact).
+2026-05-01 23:38:46 | build_index | INFO | build_index:52 | Adding 400 embeddings to index...
+2026-05-01 23:38:46 | build_index | INFO | build_index:63 | Saved FAISS index to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/faiss_index.bin
+2026-05-01 23:38:46 | build_index | INFO | build_index:65 | === Index building complete ===
+2026-05-01 23:38:46 | build_index | INFO | build_index:66 | Index type: IndexFlatIP
+2026-05-01 23:38:46 | build_index | INFO | build_index:67 | Index size: 400 products × 768 dimensions
+2026-05-01 23:55:01 | build_index | INFO | build_index:24 | === Building FAISS index ===
+2026-05-01 23:55:01 | build_index | INFO | build_index:33 | Loaded embeddings shape: (673, 768)
+2026-05-01 23:55:01 | build_index | INFO | build_index:39 | Small dataset (673 products). Using IndexFlatIP (exact).
+2026-05-01 23:55:01 | build_index | INFO | build_index:52 | Adding 673 embeddings to index...
+2026-05-01 23:55:01 | build_index | INFO | build_index:63 | Saved FAISS index to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/faiss_index.bin
+2026-05-01 23:55:01 | build_index | INFO | build_index:65 | === Index building complete ===
+2026-05-01 23:55:01 | build_index | INFO | build_index:66 | Index type: IndexFlatIP
+2026-05-01 23:55:01 | build_index | INFO | build_index:67 | Index size: 673 products × 768 dimensions
+2026-05-02 00:05:21 | build_index | INFO | build_index:24 | === Building FAISS index ===
+2026-05-02 00:05:21 | build_index | INFO | build_index:33 | Loaded embeddings shape: (673, 768)
+2026-05-02 00:05:21 | build_index | INFO | build_index:39 | Small dataset (673 products). Using IndexFlatIP (exact).
+2026-05-02 00:05:21 | build_index | INFO | build_index:52 | Adding 673 embeddings to index...
+2026-05-02 00:05:21 | build_index | INFO | build_index:63 | Saved FAISS index to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/faiss_index.bin
+2026-05-02 00:05:21 | build_index | INFO | build_index:65 | === Index building complete ===
+2026-05-02 00:05:21 | build_index | INFO | build_index:66 | Index type: IndexFlatIP
+2026-05-02 00:05:21 | build_index | INFO | build_index:67 | Index size: 673 products × 768 dimensions
+2026-05-02 00:41:44 | build_index | INFO | build_index:24 | === Building FAISS index ===
+2026-05-02 00:41:44 | build_index | INFO | build_index:33 | Loaded embeddings shape: (1515, 768)
+2026-05-02 00:41:44 | build_index | INFO | build_index:39 | Small dataset (1515 products). Using IndexFlatIP (exact).
+2026-05-02 00:41:44 | build_index | INFO | build_index:52 | Adding 1515 embeddings to index...
+2026-05-02 00:41:44 | build_index | INFO | build_index:63 | Saved FAISS index to /mnt/c/Users/maria/Documents/Repos/GlamScan/GlamScan/outputs/faiss_index.bin
+2026-05-02 00:41:44 | build_index | INFO | build_index:65 | === Index building complete ===
+2026-05-02 00:41:44 | build_index | INFO | build_index:66 | Index type: IndexFlatIP
+2026-05-02 00:41:44 | build_index | INFO | build_index:67 | Index size: 1515 products × 768 dimensions

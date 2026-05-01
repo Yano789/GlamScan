@@ -25,3 +25,102 @@
 2026-04-29 16:39:59 | search | INFO | search_by_image:134 | Embedder loaded: 0.00s
 2026-04-29 16:40:01 | search | INFO | search_by_image:141 | Image embedding: 2.54s
 2026-04-29 16:40:01 | search | INFO | search_by_image:145 | FAISS query: 0.02s
+2026-05-01 22:50:21 | search | INFO | search_by_image:134 | Embedder loaded: 3.08s
+2026-05-01 22:50:21 | search | INFO | search_by_image:141 | Image embedding: 0.53s
+2026-05-01 22:50:21 | search | INFO | _load:80 | Search engine ready: 300 products
+2026-05-01 22:50:21 | search | INFO | search_by_image:145 | FAISS query: 0.02s
+2026-05-01 23:23:08 | search | INFO | search_by_image:134 | Embedder loaded: 5.24s
+2026-05-01 23:23:09 | search | INFO | search_by_image:141 | Image embedding: 0.79s
+2026-05-01 23:23:09 | search | INFO | _load:80 | Search engine ready: 400 products
+2026-05-01 23:23:09 | search | INFO | search_by_image:145 | FAISS query: 0.03s
+2026-05-01 23:28:26 | search | INFO | search_by_image:220 | Embedder loaded: 6.81s
+2026-05-01 23:28:27 | search | INFO | search_by_image:230 | Image embedding: 0.55s
+2026-05-01 23:28:27 | search | INFO | _load:164 | Search engine ready: 400 products
+2026-05-01 23:28:27 | search | INFO | search_by_image:266 | FAISS query + color filter: 0.02s
+2026-05-01 23:40:31 | search | INFO | search_by_image:220 | Embedder loaded: 5.49s
+2026-05-01 23:40:32 | search | INFO | search_by_image:230 | Image embedding: 0.59s
+2026-05-01 23:40:32 | search | INFO | _load:164 | Search engine ready: 400 products
+2026-05-01 23:40:32 | search | INFO | search_by_image:266 | FAISS query + color filter: 0.02s
+2026-05-01 23:40:48 | search | INFO | search_by_image:220 | Embedder loaded: 0.00s
+2026-05-01 23:40:48 | search | INFO | search_by_image:230 | Image embedding: 0.22s
+2026-05-01 23:40:48 | search | INFO | search_by_image:266 | FAISS query + color filter: 0.00s
+2026-05-01 23:44:25 | search | INFO | search_by_image:220 | Embedder loaded: 4.69s
+2026-05-01 23:44:26 | search | INFO | search_by_image:230 | Image embedding: 0.54s
+2026-05-01 23:44:26 | search | INFO | _load:164 | Search engine ready: 400 products
+2026-05-01 23:44:26 | search | DEBUG | search_by_image:240 | Inferred category from image: primer
+2026-05-01 23:44:26 | search | INFO | search_by_image:276 | FAISS query + category+color filter: 0.02s (0 results)
+2026-05-01 23:57:16 | search | INFO | search_by_image:220 | Embedder loaded: 5.65s
+2026-05-01 23:57:17 | search | INFO | search_by_image:230 | Image embedding: 0.55s
+2026-05-01 23:57:17 | search | INFO | _load:164 | Search engine ready: 673 products
+2026-05-01 23:57:17 | search | DEBUG | search_by_image:240 | Inferred category from image: lipstick
+2026-05-01 23:57:17 | search | INFO | search_by_image:276 | FAISS query + category+color filter: 0.03s (2 results)
+2026-05-01 23:59:12 | search | INFO | search_by_image:220 | Embedder loaded: 0.00s
+2026-05-01 23:59:12 | search | INFO | search_by_image:230 | Image embedding: 0.25s
+2026-05-01 23:59:12 | search | DEBUG | search_by_image:240 | Inferred category from image: eyeshadow
+2026-05-01 23:59:12 | search | INFO | search_by_image:276 | FAISS query + category+color filter: 0.00s (3 results)
+2026-05-02 00:06:35 | search | INFO | search_by_image:220 | Embedder loaded: 5.70s
+2026-05-02 00:06:36 | search | INFO | search_by_image:231 | Image embedding: 0.64s
+2026-05-02 00:06:36 | search | DEBUG | _classify_product_type_from_image:424 | Product type classification: lipstick (score: 0.245)
+2026-05-02 00:06:36 | search | DEBUG | _classify_product_type_from_image:425 | All scores: {'lipstick': 0.2450350821018219, 'mascara': 0.17228610813617706, 'foundation': 0.2051990032196045, 'eyeshadow': 0.1773822009563446, 'blush': 0.17862629890441895, 'concealer': 0.1817697286605835, 'primer': 0.198752298951149, 'setting_spray': 0.17747271060943604}
+2026-05-02 00:06:36 | search | INFO | search_by_image:236 | Product type detection: 0.27s → lipstick
+2026-05-02 00:06:36 | search | INFO | _load:164 | Search engine ready: 673 products
+2026-05-02 00:06:36 | search | INFO | search_by_image:274 | FAISS query + category+color filter: 0.02s (11 results)
+2026-05-02 00:06:55 | search | INFO | search_by_image:220 | Embedder loaded: 0.00s
+2026-05-02 00:06:55 | search | INFO | search_by_image:231 | Image embedding: 0.11s
+2026-05-02 00:06:55 | search | DEBUG | _classify_product_type_from_image:428 | Product type classification confidence too low: 0.179
+2026-05-02 00:06:55 | search | INFO | search_by_image:236 | Product type detection: 0.23s → None
+2026-05-02 00:06:55 | search | INFO | search_by_image:274 | FAISS query + category+color filter: 0.00s (7 results)
+2026-05-02 00:08:05 | search | INFO | search_by_image:220 | Embedder loaded: 0.00s
+2026-05-02 00:08:05 | search | INFO | search_by_image:231 | Image embedding: 0.14s
+2026-05-02 00:08:05 | search | DEBUG | _classify_product_type_from_image:424 | Product type classification: eyeshadow (score: 0.220)
+2026-05-02 00:08:05 | search | DEBUG | _classify_product_type_from_image:425 | All scores: {'lipstick': 0.16452424228191376, 'mascara': 0.1392146199941635, 'foundation': 0.20315180718898773, 'eyeshadow': 0.22001294791698456, 'blush': 0.1981225609779358, 'concealer': 0.19509077072143555, 'primer': 0.174495667219162, 'setting_spray': 0.14350095391273499}
+2026-05-02 00:08:05 | search | INFO | search_by_image:236 | Product type detection: 0.29s → eyeshadow
+2026-05-02 00:08:05 | search | INFO | search_by_image:274 | FAISS query + category+color filter: 0.00s (1 results)
+2026-05-02 00:09:10 | search | INFO | search_by_image:220 | Embedder loaded: 0.00s
+2026-05-02 00:09:10 | search | INFO | search_by_image:231 | Image embedding: 0.08s
+2026-05-02 00:09:10 | search | DEBUG | _classify_product_type_from_image:424 | Product type classification: setting_spray (score: 0.231)
+2026-05-02 00:09:10 | search | DEBUG | _classify_product_type_from_image:425 | All scores: {'lipstick': 0.16826021671295166, 'mascara': 0.17627722024917603, 'foundation': 0.19961263239383698, 'eyeshadow': 0.1499798595905304, 'blush': 0.15313512086868286, 'concealer': 0.20155440270900726, 'primer': 0.21234774589538574, 'setting_spray': 0.23074761033058167}
+2026-05-02 00:09:10 | search | INFO | search_by_image:236 | Product type detection: 0.24s → setting_spray
+2026-05-02 00:09:10 | search | INFO | search_by_image:274 | FAISS query + category+color filter: 0.00s (0 results)
+2026-05-02 00:10:27 | search | INFO | search_by_image:220 | Embedder loaded: 0.00s
+2026-05-02 00:10:27 | search | INFO | search_by_image:231 | Image embedding: 0.09s
+2026-05-02 00:10:27 | search | DEBUG | _classify_product_type_from_image:424 | Product type classification: concealer (score: 0.234)
+2026-05-02 00:10:27 | search | DEBUG | _classify_product_type_from_image:425 | All scores: {'lipstick': 0.18921494483947754, 'mascara': 0.16780471801757812, 'foundation': 0.22554156184196472, 'eyeshadow': 0.17796608805656433, 'blush': 0.16845621168613434, 'concealer': 0.23366138339042664, 'primer': 0.21076519787311554, 'setting_spray': 0.18853124976158142}
+2026-05-02 00:10:27 | search | INFO | search_by_image:236 | Product type detection: 0.27s → concealer
+2026-05-02 00:10:27 | search | INFO | search_by_image:274 | FAISS query + category+color filter: 0.00s (15 results)
+2026-05-02 00:10:56 | search | INFO | search_by_image:220 | Embedder loaded: 0.00s
+2026-05-02 00:10:56 | search | INFO | search_by_image:231 | Image embedding: 0.11s
+2026-05-02 00:10:56 | search | DEBUG | _classify_product_type_from_image:424 | Product type classification: lipstick (score: 0.245)
+2026-05-02 00:10:56 | search | DEBUG | _classify_product_type_from_image:425 | All scores: {'lipstick': 0.2450350821018219, 'mascara': 0.17228610813617706, 'foundation': 0.2051990032196045, 'eyeshadow': 0.1773822009563446, 'blush': 0.17862629890441895, 'concealer': 0.1817697286605835, 'primer': 0.198752298951149, 'setting_spray': 0.17747271060943604}
+2026-05-02 00:10:56 | search | INFO | search_by_image:236 | Product type detection: 0.27s → lipstick
+2026-05-02 00:10:56 | search | INFO | search_by_image:274 | FAISS query + category+color filter: 0.00s (11 results)
+2026-05-02 00:45:02 | search | INFO | search_by_image:220 | Embedder loaded: 5.90s
+2026-05-02 00:45:02 | search | INFO | search_by_image:231 | Image embedding: 0.57s
+2026-05-02 00:45:03 | search | DEBUG | _classify_product_type_from_image:428 | Product type classification confidence too low: 0.179
+2026-05-02 00:45:03 | search | INFO | search_by_image:236 | Product type detection: 0.17s → None
+2026-05-02 00:45:03 | search | INFO | _load:164 | Search engine ready: 1515 products
+2026-05-02 00:45:03 | search | INFO | search_by_image:274 | FAISS query + category+color filter: 0.04s (10 results)
+2026-05-02 00:45:34 | search | INFO | search_by_image:220 | Embedder loaded: 0.00s
+2026-05-02 00:45:34 | search | INFO | search_by_image:231 | Image embedding: 0.11s
+2026-05-02 00:45:34 | search | DEBUG | _classify_product_type_from_image:424 | Product type classification: lipstick (score: 0.245)
+2026-05-02 00:45:34 | search | DEBUG | _classify_product_type_from_image:425 | All scores: {'lipstick': 0.2450350821018219, 'mascara': 0.17228610813617706, 'foundation': 0.2051990032196045, 'eyeshadow': 0.1773822009563446, 'blush': 0.17862629890441895, 'concealer': 0.1817697286605835, 'primer': 0.198752298951149, 'setting_spray': 0.17747271060943604}
+2026-05-02 00:45:34 | search | INFO | search_by_image:236 | Product type detection: 0.24s → lipstick
+2026-05-02 00:45:34 | search | INFO | search_by_image:274 | FAISS query + category+color filter: 0.00s (11 results)
+2026-05-02 00:45:48 | search | INFO | search_by_image:220 | Embedder loaded: 0.00s
+2026-05-02 00:45:49 | search | INFO | search_by_image:231 | Image embedding: 0.22s
+2026-05-02 00:45:49 | search | DEBUG | _classify_product_type_from_image:424 | Product type classification: eyeshadow (score: 0.220)
+2026-05-02 00:45:49 | search | DEBUG | _classify_product_type_from_image:425 | All scores: {'lipstick': 0.16452424228191376, 'mascara': 0.1392146199941635, 'foundation': 0.20315180718898773, 'eyeshadow': 0.22001294791698456, 'blush': 0.1981225609779358, 'concealer': 0.19509077072143555, 'primer': 0.174495667219162, 'setting_spray': 0.14350095391273499}
+2026-05-02 00:45:49 | search | INFO | search_by_image:236 | Product type detection: 0.19s → eyeshadow
+2026-05-02 00:45:49 | search | INFO | search_by_image:274 | FAISS query + category+color filter: 0.00s (0 results)
+2026-05-02 00:45:57 | search | INFO | search_by_image:220 | Embedder loaded: 0.00s
+2026-05-02 00:45:58 | search | INFO | search_by_image:231 | Image embedding: 0.28s
+2026-05-02 00:45:58 | search | DEBUG | _classify_product_type_from_image:424 | Product type classification: setting_spray (score: 0.231)
+2026-05-02 00:45:58 | search | DEBUG | _classify_product_type_from_image:425 | All scores: {'lipstick': 0.16826021671295166, 'mascara': 0.17627722024917603, 'foundation': 0.19961263239383698, 'eyeshadow': 0.1499798595905304, 'blush': 0.15313512086868286, 'concealer': 0.20155440270900726, 'primer': 0.21234774589538574, 'setting_spray': 0.23074761033058167}
+2026-05-02 00:45:58 | search | INFO | search_by_image:236 | Product type detection: 0.13s → setting_spray
+2026-05-02 00:45:58 | search | INFO | search_by_image:274 | FAISS query + category+color filter: 0.00s (13 results)
+2026-05-02 00:46:13 | search | INFO | search_by_image:220 | Embedder loaded: 0.00s
+2026-05-02 00:46:14 | search | INFO | search_by_image:231 | Image embedding: 0.32s
+2026-05-02 00:46:14 | search | DEBUG | _classify_product_type_from_image:424 | Product type classification: concealer (score: 0.234)
+2026-05-02 00:46:14 | search | DEBUG | _classify_product_type_from_image:425 | All scores: {'lipstick': 0.18921494483947754, 'mascara': 0.16780471801757812, 'foundation': 0.22554156184196472, 'eyeshadow': 0.17796608805656433, 'blush': 0.16845621168613434, 'concealer': 0.23366138339042664, 'primer': 0.21076519787311554, 'setting_spray': 0.18853124976158142}
+2026-05-02 00:46:14 | search | INFO | search_by_image:236 | Product type detection: 0.13s → concealer
+2026-05-02 00:46:14 | search | INFO | search_by_image:274 | FAISS query + category+color filter: 0.00s (14 results)
