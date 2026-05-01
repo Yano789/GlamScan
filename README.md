@@ -271,5 +271,3 @@ curl -X POST http://localhost:8000/search/combined \
 MIT
 
 ---
-
-**Built with ❤️ using CLIP, FAISS, FastAPI, and Streamlit**
